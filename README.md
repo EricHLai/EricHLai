@@ -3,10 +3,4 @@ Hello, I'm 13 years old and I'm interested in the world of finance so I'm curren
 
 I have also achieved grade 8 in piano and grade 7 in cello. 
 
-## Education
-- The Perse School, Y9-
-- Impington Village College, Y7 to Y8
-
-## Certificates and Awards
-- Kangaroo, UK Junior Math Challenge 2025
-- Gold, UK Junior Math Challenge 2024
+For more information, please visit [here](https://erichlai.github.io)
